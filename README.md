@@ -1,2 +1,4 @@
-# website-example
+gargib.github.io
+================
 
+Personal website
